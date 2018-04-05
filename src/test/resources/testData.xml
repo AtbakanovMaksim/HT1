@@ -1,0 +1,9 @@
+realLogin = "Maksim"
+realPassword = "12345"
+
+testUsername = "someuser"
+testPassword = "somepassword"
+testPasswordConfirmation = "somepassword"
+testFullName = "Some Full Name"
+testEmail = "some@addr.dom"
+buttonColor = "#4b758b"

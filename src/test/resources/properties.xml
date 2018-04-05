@@ -1,0 +1,4 @@
+BrowserName = "Chrome"
+Url = "http://127.0.0.1:8080"
+ImplicitTimeOut = "2"
+ExplicitTimeOut = "2"
